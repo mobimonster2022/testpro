@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 hello1 - commmit
+=======
+hello1
+hello2 added
+hello3 added
+>>>>>>> Stashed changes
